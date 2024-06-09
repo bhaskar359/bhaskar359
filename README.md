@@ -55,48 +55,6 @@
 **Operating Systems**
 
 
-
-<details>
-  <summary>📃 Resume</summary>
-
-
-## Education
-
-- 📖 **Computer Science Engineering**\
-8.0/10.0\
-📆 2018 - 2022\
-📍 **Rajiv Gandhi University of Knowledge Technologies** - Nuzvid, Andhra Pradesh
-
-## Projects
-
-<img align="right" src="https://img.shields.io/badge/Node.js-339933?&logo=nodedotjs&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/MySQL-00000F?&logo=mysql&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Handlebars.js-f0772b?&logo=handlebarsdotjs&logoColor=black" />
-<img align="right" src="https://img.shields.io/badge/Express.js-000000?&logo=express&logoColor=white" />
-
-- 👨‍💻 **UMS(Admin)**\
-📆 Oct,2021 - Nov,2021\
-📍 **NodeJs Application**
-
-<img align="right" src="https://img.shields.io/badge/Python-000000?&logo=python&logoColor=white" />
-
-
-- 👨‍💻 **Secure Share**\
-📆 Aug,2021 - Sept,2021\
-📍 **CLI Application** - Group Project
-
-  
-<img align="right" src="https://img.shields.io/badge/Python-000000?&logo=python&logoColor=white" />
-
-
-- 👨‍💻 **Virtual Mouse using Hand Gestures**\
-📆 June,2021 - July,2021\
-📍 **HCI Application** - Group Project
-
-</details>
-
 <p align='center'>
   📫 How to reach me: <a href='mailto:bhaskarnarendra359@gmail.com'>bhaskarnarendra359@gmail.com</a>
 </p>
