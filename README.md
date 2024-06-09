@@ -1,11 +1,11 @@
 
 
 <h1 align='center'>
-  Hi there 👋 I'm Bhaskar 👨‍💻
+  Hi there!  I'm Bhaskar 👨‍💻
 </h1>
 
 <p align='center'>
-  A Software Enthusaist looking for Opportunity.
+  A Software Developer looking for Opportunity.
 </p>
 
 
